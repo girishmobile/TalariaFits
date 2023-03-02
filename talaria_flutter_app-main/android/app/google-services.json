@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "629761853976",
+    "project_id": "talaria-538b9",
+    "storage_bucket": "talaria-538b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629761853976:android:b4b84d1b7dde27bcd9d16d",
+        "android_client_info": {
+          "package_name": "com.appinsider.talaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629761853976-lic5e3hnduc9hbmmatp62vmtb2n284iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appinsider.talaria",
+            "certificate_hash": "5a21dbe10cb986dfc4ec9310450c11880f3ff525"
+          }
+        },
+        {
+          "client_id": "629761853976-rrbgtsqr4pv09tdadn48vfk62t9vm8kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appinsider.talaria",
+            "certificate_hash": "c25c4105588ef31bf698ed8bc2f51654c116a872"
+          }
+        },
+        {
+          "client_id": "629761853976-59ilbfrh9079ec9gqvufddesuvl3avbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8u7t1E3C6veOGfCFu9HVMtiYspYAuRIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629761853976-59ilbfrh9079ec9gqvufddesuvl3avbf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629761853976-9b981e9sg8p9q732hqhb2571e9sd7pcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appinsider.talaria"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629761853976:android:5acc748a281c422cd9d16d",
+        "android_client_info": {
+          "package_name": "com.talaria.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629761853976-17552dh1evk7h764nrlls0etu1jhe3aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talaria.adminpanel",
+            "certificate_hash": "b77e10ea911627a623136ba922f3968a57cf1e67"
+          }
+        },
+        {
+          "client_id": "629761853976-59ilbfrh9079ec9gqvufddesuvl3avbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8u7t1E3C6veOGfCFu9HVMtiYspYAuRIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629761853976-59ilbfrh9079ec9gqvufddesuvl3avbf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629761853976-9b981e9sg8p9q732hqhb2571e9sd7pcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appinsider.talaria"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

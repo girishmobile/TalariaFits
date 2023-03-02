@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>629761853976-9b981e9sg8p9q732hqhb2571e9sd7pcm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.629761853976-9b981e9sg8p9q732hqhb2571e9sd7pcm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>629761853976-17552dh1evk7h764nrlls0etu1jhe3aa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAumZPgVpN75reOKWKJZd2vvN1_STlYj-g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>629761853976</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appinsider.talaria</string>
+	<key>PROJECT_ID</key>
+	<string>talaria-538b9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>talaria-538b9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:629761853976:ios:3de88be52d06c57bd9d16d</string>
+</dict>
+</plist>

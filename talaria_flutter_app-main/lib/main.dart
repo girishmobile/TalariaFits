@@ -16,7 +16,7 @@ import 'package:talaria/utils/fmsg_handler/fmsg_handler.dart';
 import 'package:talaria/utils/size_block.dart';
 
 bool isLogin = false;
-
+//This is add git
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
